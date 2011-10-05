@@ -18,6 +18,7 @@ end
 
 gem 'rails_admin', :git => 'git://github.com/sferik/rails_admin.git'
 gem 'jquery-rails'
+gem 'pg'
 
 # Use unicorn as the web server
 # gem 'unicorn'
